@@ -31,4 +31,4 @@ Inonic Chat desarrollado con Ionic Framework, la aplicacion APK ya instalada en 
 
 ## Descarga El APK
 
-Descarga `APK` clic en el siguiente enlace [Ionic Chat](https://github.com/XJaramillo/Ionic_Chat/blob/Chat/app-debug.apk). :download:
+Descarga `APK` clic en el siguiente enlace [Ionic Chat](https://github.com/XJaramillo/Ionic_Chat/raw/Chat/app-debug.apk). :white_check_mark:
