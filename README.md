@@ -27,6 +27,6 @@ Inonic Chat desarrollado con Ionic Framework, la aplicacion APK ya instalada en 
 
 * **Link del código
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+A continuación mostramos el `Código` del Chat [Enlace Al Git](http://www.protractortest.org/).
 
 
