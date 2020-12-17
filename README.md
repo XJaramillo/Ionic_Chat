@@ -24,3 +24,7 @@ Inonic Chat desarrollado con Ionic Framework, la aplicacion APK ya instalada en 
 
 * **cordova-res : 0.15.2**
 * **NodeJS : v12.16.1**
+
+## Observaciones:
+
+** *Se Necesita version de Android 9 o más*
