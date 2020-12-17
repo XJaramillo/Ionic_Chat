@@ -1,4 +1,4 @@
-# Ionic_Chat
+# Ionic_Chat :computer:
 
 ## Chat desarrollado con Ionic
 
@@ -22,8 +22,6 @@ Inonic Chat desarrollado con Ionic Framework, la aplicacion APK ya instalada en 
 
 * **cordova-res : 0.15.2**
 * **NodeJS : v12.16.1**
-
-::dancer::
 
 
 
